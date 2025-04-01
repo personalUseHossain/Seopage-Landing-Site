@@ -1,5 +1,5 @@
 # SeoPage
-![SeoPage Preview]([https://your-image-link.com/preview.png](https://res.cloudinary.com/dndev4rnw/image/upload/f_auto,q_auto/k50qmusc3z52t7kea3vr))
+![SeoPage Preview](https://res.cloudinary.com/dndev4rnw/image/upload/v1743506286/k50qmusc3z52t7kea3vr.png)
 
 Welcome to **SeoPage**, a modern and stylish landing page built with **Next.js**. This project is designed to showcase key business aspects, including services, partners, client testimonials, technology stack, case studies, awards, and a contact section.
 
@@ -28,4 +28,4 @@ Check out the live version of the project: [SeoPage](https://seopage.vercel.app)
 - **Hosting & Deployment**: Vercel, Azure
 
 ## Note
-This is a testing project and is not paid; many features are non-functional, and there is no backend integration.
+This is a testing project and is not paid; many features are non-functional, and there is no backend integration.\\
